@@ -7,5 +7,5 @@
 <br />
 <br />
 <ul>
-<li>Un ensayo de Introducción a GIT.</li>
+<li>Un ensayo de Introducción a GIT por Comunidad Mejorando.la.</li>
 
